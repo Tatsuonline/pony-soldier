@@ -3,4 +3,4 @@ This silly Firefox extension replaces Joe Biden's name with his favorite taunt: 
 
 An example:
 
-![Wikipedia](/home/Tatsu/Pictures/biden-wiki.png)
+![Wikipedia](images/biden-wiki.png)
