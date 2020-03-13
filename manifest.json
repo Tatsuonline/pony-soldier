@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 1,
+  "name": "Pony Soldier",
+  "version": "1.0",
+
+  "description": "This is a silly Firefox extension that replaces Joe Biden's name with his favorite taunt.",
+
+  "icons": {
+    "48": "icons/pony-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["pony.js"]
+    }
+  ]
+
+}
